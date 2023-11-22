@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color backgroundColor
+color black
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+color darkBackgroundColor
+color darkTextColor
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color textColor
+color transparent
+color white
+drawable ic_launcher
+id copy_button
+id generate_button
+id password_length_seek_bar
+id password_length_text_view
+id password_text_view
+id use_numbers_switch
+id use_special_chars_switch
+layout activity_main
+string app_name
+string copy
+string generate
+string password_length_hint
+string press_generate
+string use_numbers
+string use_special_characters
+style Theme.MyApplication
+xml backup_rules
+xml data_extraction_rules

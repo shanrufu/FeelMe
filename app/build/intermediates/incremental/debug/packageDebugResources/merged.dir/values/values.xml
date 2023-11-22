@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backgroundColor">#FFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="darkBackgroundColor">#212121</color>
+    <color name="darkTextColor">#FFFFFF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="textColor">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Password Generator</string>
+    <string name="copy">Copy</string>
+    <string name="generate">Generate</string>
+    <string name="password_length_hint" translatable="false">8</string>
+    <string name="press_generate">Press Generate</string>
+    <string name="use_numbers">Use Numbers</string>
+    <string name="use_special_characters">Use Special Characters</string>
+    <style name="Theme.MyApplication" parent="Theme.Material3.DayNight">
+
+    </style>
+</resources>

@@ -1,0 +1,267 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.databinding:databinding-adapters:7.4.1] /Users/shanrufu/.gradle/caches/transforms-3/0002b960b4ecc5609c997a8356fa250b/transformed/databinding-adapters-7.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-ktx:7.4.1] /Users/shanrufu/.gradle/caches/transforms-3/6a035c0e0cb8cd0e8221e9e6fe25ebb5/transformed/databinding-ktx-7.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-runtime:7.4.1] /Users/shanrufu/.gradle/caches/transforms-3/41251a922da8ec45170e22ac3fc0332c/transformed/databinding-runtime-7.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:viewbinding:7.4.1] /Users/shanrufu/.gradle/caches/transforms-3/e9bdf74d6bd4042bc63bea367d774cdb/transformed/viewbinding-7.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] /Users/shanrufu/.gradle/caches/transforms-3/ab9edc2692ebf9841608bba20cc38598/transformed/lifecycle-runtime-ktx-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.8.0] /Users/shanrufu/.gradle/caches/transforms-3/b8770ab68409020ce841c4169651d910/transformed/material-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/shanrufu/.gradle/caches/transforms-3/d338847ba83118857cb80870cceb01ba/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/shanrufu/.gradle/caches/transforms-3/6a12735f856c6108dc8ca9ce54a9522f/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/shanrufu/.gradle/caches/transforms-3/255b9c53556b7f76b40857945db71bac/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/6e4de120dd0e60b589036632c98e3479/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/shanrufu/.gradle/caches/transforms-3/c014238e604943c177257e1a6f1391c9/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] /Users/shanrufu/.gradle/caches/transforms-3/8998acc3ed08a2b498425e106abe90d6/transformed/activity-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/a6f503df09ad3fc783be4b70e5d27f47/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/6e22137ad07a85232b75747b55049aa6/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/ba8682c3dd1b2eab6f03177b9198d58a/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/shanrufu/.gradle/caches/transforms-3/ff5feabe520fc7fea70df74fa915d30c/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/shanrufu/.gradle/caches/transforms-3/b71ab5d6f191574f05a62c54c85d507d/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/shanrufu/.gradle/caches/transforms-3/7126f2d71097e69570db77373fcbf0ba/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/shanrufu/.gradle/caches/transforms-3/f0c053e529139e62e8f0be3fc2b1e2eb/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/shanrufu/.gradle/caches/transforms-3/761c5a8cca42ab0d58f072f7dc8c83a1/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/shanrufu/.gradle/caches/transforms-3/38a8acf8a1e0b9928b77d66189658ee8/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/shanrufu/.gradle/caches/transforms-3/4fe92684a553bd8ccf58c793177cd847/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/shanrufu/.gradle/caches/transforms-3/d443c4dfcd917289231f62d62f2345b0/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/shanrufu/.gradle/caches/transforms-3/f4128cfd8661ef5d7880fdd26ee8c133/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/2583ea627a04ec860f8f3b9437330246/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/shanrufu/.gradle/caches/transforms-3/4af7150ff46ae136b8ab4e881eb06563/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/shanrufu/.gradle/caches/transforms-3/8b4ccecc10cd170f4af45bcea411d9c8/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] /Users/shanrufu/.gradle/caches/transforms-3/3ba72cde471fefb719754792554b6cfb/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/shanrufu/.gradle/caches/transforms-3/6bf80605959fea07070c3180037881f3/transformed/core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.0] /Users/shanrufu/.gradle/caches/transforms-3/55067774399b98f92873c7200dca82e9/transformed/lifecycle-service-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/shanrufu/.gradle/caches/transforms-3/30941f1ec328c4373ad3c837ac1e67f0/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/shanrufu/.gradle/caches/transforms-3/3acf66a29a2eb7edcb911aacb29c0ae0/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/84489760453a451d9fe64917ed049436/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/shanrufu/.gradle/caches/transforms-3/c1e5dd99612ac40fc921142079b4d68b/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/53b024e2c636530c243be25566c2570c/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] /Users/shanrufu/.gradle/caches/transforms-3/438c2f00ea8d0c144f06a37eb48dd525/transformed/lifecycle-livedata-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/shanrufu/.gradle/caches/transforms-3/0b8b419cb5928cf2edaa0b7b5f8f8b16/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/shanrufu/.gradle/caches/transforms-3/21df4865945c694f08914be42fb6066d/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/shanrufu/.gradle/caches/transforms-3/9bcfc9dffb3c91ce05d3a50d0aa20499/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/shanrufu/.gradle/caches/transforms-3/4b8b1e41237795c67910ab23734e4260/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/5910a4b3a36022ff23636f220d52e81e/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/c2e100730f198131fe51ddf0a6b7934e/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/d540edf32a2e8db930cdb3e175b64294/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/9081377d819d435bf0fc1ae98455c302/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/576f42fa62ddd9d9bc67a6aa2f2fa812/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/shanrufu/.gradle/caches/transforms-3/8037dd0e1779bdffc484ef08b5c2fcf4/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [com.google.android.material:material:1.8.0] /Users/shanrufu/.gradle/caches/transforms-3/b8770ab68409020ce841c4169651d910/transformed/material-1.8.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.8.0] /Users/shanrufu/.gradle/caches/transforms-3/b8770ab68409020ce841c4169651d910/transformed/material-1.8.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/shanrufu/.gradle/caches/transforms-3/d338847ba83118857cb80870cceb01ba/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/shanrufu/.gradle/caches/transforms-3/d338847ba83118857cb80870cceb01ba/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/shanrufu/.gradle/caches/transforms-3/f0c053e529139e62e8f0be3fc2b1e2eb/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/shanrufu/.gradle/caches/transforms-3/f0c053e529139e62e8f0be3fc2b1e2eb/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /Users/shanrufu/.gradle/caches/transforms-3/3ba72cde471fefb719754792554b6cfb/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/shanrufu/.gradle/caches/transforms-3/3ba72cde471fefb719754792554b6cfb/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/shanrufu/.gradle/caches/transforms-3/30941f1ec328c4373ad3c837ac1e67f0/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/shanrufu/.gradle/caches/transforms-3/30941f1ec328c4373ad3c837ac1e67f0/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/shanrufu/.gradle/caches/transforms-3/9bcfc9dffb3c91ce05d3a50d0aa20499/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/shanrufu/.gradle/caches/transforms-3/9bcfc9dffb3c91ce05d3a50d0aa20499/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/shanrufu/.gradle/caches/transforms-3/4b8b1e41237795c67910ab23734e4260/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/shanrufu/.gradle/caches/transforms-3/4b8b1e41237795c67910ab23734e4260/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /Users/shanrufu/.gradle/caches/transforms-3/3ba72cde471fefb719754792554b6cfb/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml:9:9-50
+	android:icon
+		ADDED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml:7:9-45
+	android:allowBackup
+		ADDED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml:11:9-51
+activity#com.move.fitme.MainActivity
+ADDED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml:12:9-19:20
+	android:exported
+		ADDED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml:12:19-61
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.4.1] /Users/shanrufu/.gradle/caches/transforms-3/0002b960b4ecc5609c997a8356fa250b/transformed/databinding-adapters-7.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-adapters:7.4.1] /Users/shanrufu/.gradle/caches/transforms-3/0002b960b4ecc5609c997a8356fa250b/transformed/databinding-adapters-7.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:7.4.1] /Users/shanrufu/.gradle/caches/transforms-3/6a035c0e0cb8cd0e8221e9e6fe25ebb5/transformed/databinding-ktx-7.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:7.4.1] /Users/shanrufu/.gradle/caches/transforms-3/6a035c0e0cb8cd0e8221e9e6fe25ebb5/transformed/databinding-ktx-7.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.4.1] /Users/shanrufu/.gradle/caches/transforms-3/41251a922da8ec45170e22ac3fc0332c/transformed/databinding-runtime-7.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.4.1] /Users/shanrufu/.gradle/caches/transforms-3/41251a922da8ec45170e22ac3fc0332c/transformed/databinding-runtime-7.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.1] /Users/shanrufu/.gradle/caches/transforms-3/e9bdf74d6bd4042bc63bea367d774cdb/transformed/viewbinding-7.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.1] /Users/shanrufu/.gradle/caches/transforms-3/e9bdf74d6bd4042bc63bea367d774cdb/transformed/viewbinding-7.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] /Users/shanrufu/.gradle/caches/transforms-3/ab9edc2692ebf9841608bba20cc38598/transformed/lifecycle-runtime-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] /Users/shanrufu/.gradle/caches/transforms-3/ab9edc2692ebf9841608bba20cc38598/transformed/lifecycle-runtime-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.8.0] /Users/shanrufu/.gradle/caches/transforms-3/b8770ab68409020ce841c4169651d910/transformed/material-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.8.0] /Users/shanrufu/.gradle/caches/transforms-3/b8770ab68409020ce841c4169651d910/transformed/material-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/shanrufu/.gradle/caches/transforms-3/d338847ba83118857cb80870cceb01ba/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/shanrufu/.gradle/caches/transforms-3/d338847ba83118857cb80870cceb01ba/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/shanrufu/.gradle/caches/transforms-3/6a12735f856c6108dc8ca9ce54a9522f/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/shanrufu/.gradle/caches/transforms-3/6a12735f856c6108dc8ca9ce54a9522f/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/shanrufu/.gradle/caches/transforms-3/255b9c53556b7f76b40857945db71bac/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/shanrufu/.gradle/caches/transforms-3/255b9c53556b7f76b40857945db71bac/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/6e4de120dd0e60b589036632c98e3479/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/6e4de120dd0e60b589036632c98e3479/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/shanrufu/.gradle/caches/transforms-3/c014238e604943c177257e1a6f1391c9/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/shanrufu/.gradle/caches/transforms-3/c014238e604943c177257e1a6f1391c9/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] /Users/shanrufu/.gradle/caches/transforms-3/8998acc3ed08a2b498425e106abe90d6/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /Users/shanrufu/.gradle/caches/transforms-3/8998acc3ed08a2b498425e106abe90d6/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/a6f503df09ad3fc783be4b70e5d27f47/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/a6f503df09ad3fc783be4b70e5d27f47/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/6e22137ad07a85232b75747b55049aa6/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/6e22137ad07a85232b75747b55049aa6/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/ba8682c3dd1b2eab6f03177b9198d58a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/ba8682c3dd1b2eab6f03177b9198d58a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/shanrufu/.gradle/caches/transforms-3/ff5feabe520fc7fea70df74fa915d30c/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/shanrufu/.gradle/caches/transforms-3/ff5feabe520fc7fea70df74fa915d30c/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/shanrufu/.gradle/caches/transforms-3/b71ab5d6f191574f05a62c54c85d507d/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/shanrufu/.gradle/caches/transforms-3/b71ab5d6f191574f05a62c54c85d507d/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/shanrufu/.gradle/caches/transforms-3/7126f2d71097e69570db77373fcbf0ba/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/shanrufu/.gradle/caches/transforms-3/7126f2d71097e69570db77373fcbf0ba/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/shanrufu/.gradle/caches/transforms-3/f0c053e529139e62e8f0be3fc2b1e2eb/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/shanrufu/.gradle/caches/transforms-3/f0c053e529139e62e8f0be3fc2b1e2eb/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/shanrufu/.gradle/caches/transforms-3/761c5a8cca42ab0d58f072f7dc8c83a1/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/shanrufu/.gradle/caches/transforms-3/761c5a8cca42ab0d58f072f7dc8c83a1/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/shanrufu/.gradle/caches/transforms-3/38a8acf8a1e0b9928b77d66189658ee8/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/shanrufu/.gradle/caches/transforms-3/38a8acf8a1e0b9928b77d66189658ee8/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/shanrufu/.gradle/caches/transforms-3/4fe92684a553bd8ccf58c793177cd847/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/shanrufu/.gradle/caches/transforms-3/4fe92684a553bd8ccf58c793177cd847/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/shanrufu/.gradle/caches/transforms-3/d443c4dfcd917289231f62d62f2345b0/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/shanrufu/.gradle/caches/transforms-3/d443c4dfcd917289231f62d62f2345b0/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/shanrufu/.gradle/caches/transforms-3/f4128cfd8661ef5d7880fdd26ee8c133/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/shanrufu/.gradle/caches/transforms-3/f4128cfd8661ef5d7880fdd26ee8c133/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/2583ea627a04ec860f8f3b9437330246/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/2583ea627a04ec860f8f3b9437330246/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/shanrufu/.gradle/caches/transforms-3/4af7150ff46ae136b8ab4e881eb06563/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/shanrufu/.gradle/caches/transforms-3/4af7150ff46ae136b8ab4e881eb06563/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/shanrufu/.gradle/caches/transforms-3/8b4ccecc10cd170f4af45bcea411d9c8/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/shanrufu/.gradle/caches/transforms-3/8b4ccecc10cd170f4af45bcea411d9c8/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /Users/shanrufu/.gradle/caches/transforms-3/3ba72cde471fefb719754792554b6cfb/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/shanrufu/.gradle/caches/transforms-3/3ba72cde471fefb719754792554b6cfb/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/shanrufu/.gradle/caches/transforms-3/6bf80605959fea07070c3180037881f3/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/shanrufu/.gradle/caches/transforms-3/6bf80605959fea07070c3180037881f3/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.0] /Users/shanrufu/.gradle/caches/transforms-3/55067774399b98f92873c7200dca82e9/transformed/lifecycle-service-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.0] /Users/shanrufu/.gradle/caches/transforms-3/55067774399b98f92873c7200dca82e9/transformed/lifecycle-service-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/shanrufu/.gradle/caches/transforms-3/30941f1ec328c4373ad3c837ac1e67f0/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/shanrufu/.gradle/caches/transforms-3/30941f1ec328c4373ad3c837ac1e67f0/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/shanrufu/.gradle/caches/transforms-3/3acf66a29a2eb7edcb911aacb29c0ae0/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/shanrufu/.gradle/caches/transforms-3/3acf66a29a2eb7edcb911aacb29c0ae0/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/84489760453a451d9fe64917ed049436/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/84489760453a451d9fe64917ed049436/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/shanrufu/.gradle/caches/transforms-3/c1e5dd99612ac40fc921142079b4d68b/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/shanrufu/.gradle/caches/transforms-3/c1e5dd99612ac40fc921142079b4d68b/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/53b024e2c636530c243be25566c2570c/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/53b024e2c636530c243be25566c2570c/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] /Users/shanrufu/.gradle/caches/transforms-3/438c2f00ea8d0c144f06a37eb48dd525/transformed/lifecycle-livedata-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] /Users/shanrufu/.gradle/caches/transforms-3/438c2f00ea8d0c144f06a37eb48dd525/transformed/lifecycle-livedata-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/shanrufu/.gradle/caches/transforms-3/0b8b419cb5928cf2edaa0b7b5f8f8b16/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/shanrufu/.gradle/caches/transforms-3/0b8b419cb5928cf2edaa0b7b5f8f8b16/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/shanrufu/.gradle/caches/transforms-3/21df4865945c694f08914be42fb6066d/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/shanrufu/.gradle/caches/transforms-3/21df4865945c694f08914be42fb6066d/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/shanrufu/.gradle/caches/transforms-3/9bcfc9dffb3c91ce05d3a50d0aa20499/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/shanrufu/.gradle/caches/transforms-3/9bcfc9dffb3c91ce05d3a50d0aa20499/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/shanrufu/.gradle/caches/transforms-3/4b8b1e41237795c67910ab23734e4260/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/shanrufu/.gradle/caches/transforms-3/4b8b1e41237795c67910ab23734e4260/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/5910a4b3a36022ff23636f220d52e81e/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/5910a4b3a36022ff23636f220d52e81e/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/c2e100730f198131fe51ddf0a6b7934e/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/c2e100730f198131fe51ddf0a6b7934e/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/d540edf32a2e8db930cdb3e175b64294/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/d540edf32a2e8db930cdb3e175b64294/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/9081377d819d435bf0fc1ae98455c302/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/9081377d819d435bf0fc1ae98455c302/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/576f42fa62ddd9d9bc67a6aa2f2fa812/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/shanrufu/.gradle/caches/transforms-3/576f42fa62ddd9d9bc67a6aa2f2fa812/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/shanrufu/.gradle/caches/transforms-3/8037dd0e1779bdffc484ef08b5c2fcf4/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/shanrufu/.gradle/caches/transforms-3/8037dd0e1779bdffc484ef08b5c2fcf4/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shanrufu/Downloads/Password-Generator-Android/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/shanrufu/.gradle/caches/transforms-3/f0c053e529139e62e8f0be3fc2b1e2eb/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/shanrufu/.gradle/caches/transforms-3/30941f1ec328c4373ad3c837ac1e67f0/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/shanrufu/.gradle/caches/transforms-3/30941f1ec328c4373ad3c837ac1e67f0/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/shanrufu/.gradle/caches/transforms-3/4b8b1e41237795c67910ab23734e4260/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/shanrufu/.gradle/caches/transforms-3/4b8b1e41237795c67910ab23734e4260/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/shanrufu/.gradle/caches/transforms-3/f0c053e529139e62e8f0be3fc2b1e2eb/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/shanrufu/.gradle/caches/transforms-3/f0c053e529139e62e8f0be3fc2b1e2eb/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/shanrufu/.gradle/caches/transforms-3/f0c053e529139e62e8f0be3fc2b1e2eb/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/shanrufu/.gradle/caches/transforms-3/f0c053e529139e62e8f0be3fc2b1e2eb/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/shanrufu/.gradle/caches/transforms-3/f0c053e529139e62e8f0be3fc2b1e2eb/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/shanrufu/.gradle/caches/transforms-3/f0c053e529139e62e8f0be3fc2b1e2eb/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/shanrufu/.gradle/caches/transforms-3/f0c053e529139e62e8f0be3fc2b1e2eb/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/shanrufu/.gradle/caches/transforms-3/3ba72cde471fefb719754792554b6cfb/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/shanrufu/.gradle/caches/transforms-3/3ba72cde471fefb719754792554b6cfb/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/shanrufu/.gradle/caches/transforms-3/3ba72cde471fefb719754792554b6cfb/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.move.fitme.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/shanrufu/.gradle/caches/transforms-3/3ba72cde471fefb719754792554b6cfb/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/shanrufu/.gradle/caches/transforms-3/3ba72cde471fefb719754792554b6cfb/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/shanrufu/.gradle/caches/transforms-3/3ba72cde471fefb719754792554b6cfb/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/shanrufu/.gradle/caches/transforms-3/3ba72cde471fefb719754792554b6cfb/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/shanrufu/.gradle/caches/transforms-3/3ba72cde471fefb719754792554b6cfb/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.move.fitme.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/shanrufu/.gradle/caches/transforms-3/3ba72cde471fefb719754792554b6cfb/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/shanrufu/.gradle/caches/transforms-3/3ba72cde471fefb719754792554b6cfb/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/shanrufu/.gradle/caches/transforms-3/30941f1ec328c4373ad3c837ac1e67f0/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/shanrufu/.gradle/caches/transforms-3/30941f1ec328c4373ad3c837ac1e67f0/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/shanrufu/.gradle/caches/transforms-3/30941f1ec328c4373ad3c837ac1e67f0/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
